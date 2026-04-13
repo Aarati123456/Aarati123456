@@ -25,6 +25,4 @@
 </div>
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Aarati123456/Aarati123456/output/github-snake-dark.svg?v=2" />
-</p>
+
